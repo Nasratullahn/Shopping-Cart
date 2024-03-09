@@ -1,5 +1,7 @@
-# ruby-cli-template
+# My CLI App
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
+This simple Ruby on Rails command-line interface (CLI) application asks users to add products to the cart and calculate the totals , taxes .
 
-- Ruby version: `3.2.1`
+## Usage
+
+1. Run ruby ```app.rb in``` the terminal
